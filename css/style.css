@@ -58,13 +58,6 @@ main {
     margin: 60px 0;
 }
 
-.invisible{
-    display: none;
-}
-
-.visible{
-    display: block;
-}
 
 h1,h2 {
     color: white;
